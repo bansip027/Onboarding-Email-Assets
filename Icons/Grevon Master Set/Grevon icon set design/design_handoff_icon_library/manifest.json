@@ -1,0 +1,257 @@
+[
+  {
+    "label": "Check-in",
+    "slug": "check-in",
+    "file": "check-in.svg"
+  },
+  {
+    "label": "Arrivals",
+    "slug": "arrivals",
+    "file": "arrivals.svg"
+  },
+  {
+    "label": "Key card",
+    "slug": "key-card",
+    "file": "key-card.svg"
+  },
+  {
+    "label": "Guest chat",
+    "slug": "guest-chat",
+    "file": "guest-chat.svg"
+  },
+  {
+    "label": "Multilingual",
+    "slug": "multilingual",
+    "file": "multilingual.svg"
+  },
+  {
+    "label": "Channel sync",
+    "slug": "channel-sync",
+    "file": "channel-sync.svg"
+  },
+  {
+    "label": "Booking link",
+    "slug": "booking-link",
+    "file": "booking-link.svg"
+  },
+  {
+    "label": "Booking confirmed",
+    "slug": "booking-confirmed",
+    "file": "booking-confirmed.svg"
+  },
+  {
+    "label": "Workflow",
+    "slug": "workflow",
+    "file": "workflow.svg"
+  },
+  {
+    "label": "Automation rule",
+    "slug": "automation-rule",
+    "file": "automation-rule.svg"
+  },
+  {
+    "label": "Trigger",
+    "slug": "trigger",
+    "file": "trigger.svg"
+  },
+  {
+    "label": "Revenue trend",
+    "slug": "revenue-trend",
+    "file": "revenue-trend.svg"
+  },
+  {
+    "label": "Upsell offer",
+    "slug": "upsell-offer",
+    "file": "upsell-offer.svg"
+  },
+  {
+    "label": "Analytics",
+    "slug": "analytics",
+    "file": "analytics.svg"
+  },
+  {
+    "label": "Report",
+    "slug": "report",
+    "file": "report.svg"
+  },
+  {
+    "label": "Dashboard",
+    "slug": "dashboard",
+    "file": "dashboard.svg"
+  },
+  {
+    "label": "Synaptic network",
+    "slug": "synaptic-network",
+    "file": "synaptic-network.svg"
+  },
+  {
+    "label": "AI insight",
+    "slug": "ai-insight",
+    "file": "ai-insight.svg"
+  },
+  {
+    "label": "Intelligence layer",
+    "slug": "intelligence-layer",
+    "file": "intelligence-layer.svg"
+  },
+  {
+    "label": "Room",
+    "slug": "room",
+    "file": "room.svg"
+  },
+  {
+    "label": "Housekeeping",
+    "slug": "housekeeping",
+    "file": "housekeeping.svg"
+  },
+  {
+    "label": "Payment",
+    "slug": "payment",
+    "file": "payment.svg"
+  },
+  {
+    "label": "Invoice",
+    "slug": "invoice",
+    "file": "invoice.svg"
+  },
+  {
+    "label": "Lock",
+    "slug": "lock",
+    "file": "lock.svg"
+  },
+  {
+    "label": "Trust &amp; security",
+    "slug": "trust-security",
+    "file": "trust-security.svg"
+  },
+  {
+    "label": "Access",
+    "slug": "access",
+    "file": "access.svg"
+  },
+  {
+    "label": "Calendar",
+    "slug": "calendar",
+    "file": "calendar.svg"
+  },
+  {
+    "label": "Schedule",
+    "slug": "schedule",
+    "file": "schedule.svg"
+  },
+  {
+    "label": "Notification",
+    "slug": "notification",
+    "file": "notification.svg"
+  },
+  {
+    "label": "Alert",
+    "slug": "alert",
+    "file": "alert.svg"
+  },
+  {
+    "label": "Partnership",
+    "slug": "partnership",
+    "file": "partnership.svg"
+  },
+  {
+    "label": "Business",
+    "slug": "business",
+    "file": "business.svg"
+  },
+  {
+    "label": "Global reach",
+    "slug": "global-reach",
+    "file": "global-reach.svg"
+  },
+  {
+    "label": "Agreement",
+    "slug": "agreement",
+    "file": "agreement.svg"
+  },
+  {
+    "label": "Scale",
+    "slug": "scale",
+    "file": "scale.svg"
+  },
+  {
+    "label": "Campaign",
+    "slug": "campaign",
+    "file": "campaign.svg"
+  },
+  {
+    "label": "Target",
+    "slug": "target",
+    "file": "target.svg"
+  },
+  {
+    "label": "Launch",
+    "slug": "launch",
+    "file": "launch.svg"
+  },
+  {
+    "label": "Audience",
+    "slug": "audience",
+    "file": "audience.svg"
+  },
+  {
+    "label": "Rating",
+    "slug": "rating",
+    "file": "rating.svg"
+  },
+  {
+    "label": "Loyalty",
+    "slug": "loyalty",
+    "file": "loyalty.svg"
+  },
+  {
+    "label": "Concierge",
+    "slug": "concierge",
+    "file": "concierge.svg"
+  },
+  {
+    "label": "Amenity",
+    "slug": "amenity",
+    "file": "amenity.svg"
+  },
+  {
+    "label": "Comfort",
+    "slug": "comfort",
+    "file": "comfort.svg"
+  },
+  {
+    "label": "Destination",
+    "slug": "destination",
+    "file": "destination.svg"
+  },
+  {
+    "label": "Search",
+    "slug": "search",
+    "file": "search.svg"
+  },
+  {
+    "label": "Add",
+    "slug": "add",
+    "file": "add.svg"
+  },
+  {
+    "label": "Close",
+    "slug": "close",
+    "file": "close.svg"
+  },
+  {
+    "label": "Chevron",
+    "slug": "chevron",
+    "file": "chevron.svg"
+  },
+  {
+    "label": "More",
+    "slug": "more",
+    "file": "more.svg"
+  },
+  {
+    "label": "External link",
+    "slug": "external-link",
+    "file": "external-link.svg"
+  }
+]
